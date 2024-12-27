@@ -22,7 +22,7 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ShoppingCart.git
+git clone https://github.com/Humaira123-afk/ShoppingCart.git
 Navigate to the Project Folder
 
 Open a terminal or command prompt and navigate to the project folder:
