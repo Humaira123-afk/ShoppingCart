@@ -19,32 +19,23 @@ Steps to Execute
 Clone the Repository
 
 Clone the repository to your local machine using the following command:
-
-bash
-Copy code
 git clone https://github.com/Humaira123-afk/ShoppingCart.git
 Navigate to the Project Folder
 
 Open a terminal or command prompt and navigate to the project folder:
 
-bash
-Copy code
-cd ShoppingCart
+ ShoppingCart
 Compile the Project
 
 Use the javac command to compile the Java files. Run the following command in the terminal:
 
-bash
-Copy code
 javac Item.java ShoppingCart.java
 Run the Project
-
 To run the main program, use the java command:
 
-bash
-Copy code
 java ShoppingCart
 Example Output
+
 Once the program is running, you can interact with the cart and perform actions such as adding, removing, and viewing items.
 
 Libraries and Packages Used
